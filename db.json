@@ -1,7 +1,4 @@
-[
-  {
-    "id":1,
-    "name":"manitsoni",
-    "email":"manitsoni369@gmail.com"
-  }
-]
+0:
+  id:1,
+  username:"manitsoni",
+  email:"manitsoni369@gmail.com"
